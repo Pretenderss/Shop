@@ -1,0 +1,5 @@
+package coffeeshop.model;
+
+public enum Ingredients {
+COFFEE_BEANS, CHOCOLATE, TEA_GREEN, TEA_BLACK, TEA_FRUIT, CACAO, SUGAR_STICKS, SUGAR_SUBSTITUDE, BUN, HONEY
+}
